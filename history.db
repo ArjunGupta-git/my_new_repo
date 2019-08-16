@@ -4,7 +4,9 @@
 {"url":"http://reqres.in","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565690236158,"_id":"BlAW7j3I1bXppmEk"}
 {"url":"http://reqres.in/api/user/2","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565694989595,"_id":"J8tf9KPzuh3XxX2Q"}
 {"url":"http://google.com","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565694727541,"_id":"LsDrbgdHjF3Mm8Um"}
+{"url":"http://reqres.in/api/user","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565931158280,"_id":"WR9CWkT35bSWuGcJ"}
 {"url":"http://reqres.in/api/user/2","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565694911980,"_id":"cj9uaH87KGiyaP99"}
 {"url":"http://reqres.in/api/user/2","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565689762365,"_id":"inD8H3P9vNCYJPCQ"}
 {"url":"http://reqres.in/api/user","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565690154267,"_id":"o5WRQePWN5ymfk3j"}
 {"url":"http://reqres.in","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565690205640,"_id":"sir1zDYZE38lMJLk"}
+{"url":"http://google.com","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565931193599,"_id":"yBgWvpmcvWEQp1mN"}

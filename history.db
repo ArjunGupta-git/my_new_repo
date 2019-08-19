@@ -9,4 +9,5 @@
 {"url":"http://reqres.in/api/user/2","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565689762365,"_id":"inD8H3P9vNCYJPCQ"}
 {"url":"http://reqres.in/api/user","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565690154267,"_id":"o5WRQePWN5ymfk3j"}
 {"url":"http://reqres.in","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565690205640,"_id":"sir1zDYZE38lMJLk"}
+{"url":"http://reqres.in/api/user","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1566194905962,"_id":"x3o7hHiaulX98bVd"}
 {"url":"http://google.com","type":"GET","headers":{},"assertText":"","responseExtractorText":"","timeStamp":1565931193599,"_id":"yBgWvpmcvWEQp1mN"}

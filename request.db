@@ -1,5 +1,5 @@
 {"suiteName":"suite3","reqName":"request3","reqObj":{"url":"http://google.com","type":"GET","headers":{},"suiteName":"suite3","assertText":"","responseExtractorText":""},"next":null,"_id":"7r5IwPJZKrCnxITU"}
-{"suiteName":"suite1","reqName":"request1","reqObj":{"url":"http://reqres.in/api/user/2","type":"GET","headers":{},"suiteName":"suite1","assertText":"","responseExtractorText":""},"next":null,"_id":"8v2UC6td98pjUJIs"}
+{"suiteName":"suite2","reqName":"request2","reqObj":{"url":"http://reqres.in/api/user","type":"GET","headers":{},"suiteName":"suite2","assertText":"","responseExtractorText":""},"next":null,"_id":"8v2UC6td98pjUJIs"}
 {"suiteName":"suite2","reqName":"r2","reqObj":{"url":"http://reqres.in","type":"GET","headers":{},"suiteName":"suite2","assertText":"","responseExtractorText":""},"next":"eaUkuq38iJQ32B33","_id":"McNhpj3Z6BXZ75Jr"}
 {"suiteName":"suite2","reqName":"request2","reqObj":{"url":"http://reqres.in/api/user","type":"GET","headers":{},"suiteName":"suite2","assertText":"","responseExtractorText":""},"next":null,"_id":"ZNbunslIn9wLsQCg"}
 {"suiteName":"suite2","reqName":"r22","reqObj":{"url":"http://reqres.in/api/user","type":"GET","headers":{},"suiteName":"suite2","assertText":"","responseExtractorText":""},"next":"ZNbunslIn9wLsQCg","_id":"eaUkuq38iJQ32B33"}
